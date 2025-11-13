@@ -11,7 +11,7 @@
 #region Designer generated code
 #pragma warning disable
 using Reqnroll;
-namespace TestTask.Features
+namespace TestProject.UI.Task1.Features
 {
     
     
